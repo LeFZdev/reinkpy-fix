@@ -2,9 +2,9 @@
 Free and open waste ink counter resetter for some (EPSON) printers.
 # reinkpy-fix (Epson Printer Waste Counter Reset)
 
-A working fork of the `reinkpy` project by Daniel Gerber 'https://codeberg.org/atufi/reinkpy' with critical fixes implemented for resetting the Epson EcoTank waste ink counter over a.
+A working fork of the `reinkpy` project by Daniel Gerber 'https://codeberg.org/atufi/reinkpy' with critical fixes implemented for resetting the Epson EcoTank waste ink counter.
 
-**Status:** Confirmed working for Epson L3060 Series.
+**Status:** Confirmed working for Epson L3060 Series and similar.
 
 ---
 
