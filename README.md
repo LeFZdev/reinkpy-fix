@@ -1,6 +1,6 @@
 # reinkpy-fix
 Free and open waste ink counter resetter for some (EPSON) printers.
-# reinkpy-lan-fix (Epson EcoTank Waste Counter Reset)
+# reinkpy-fix (Epson Printer Waste Counter Reset)
 
 A working fork of the `reinkpy` project by Daniel Gerber 'https://codeberg.org/atufi/reinkpy' with critical fixes implemented for resetting the Epson EcoTank waste ink counter over a.
 
