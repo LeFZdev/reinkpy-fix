@@ -25,7 +25,7 @@ The original `reinkpy` library fails when attempting to execute the waste counte
     cd reinkpy-fix
     ```
     
-3   **Recommended Installation Path:**
+2.  **Recommended Installation Path:**
     Install this fork's dependencies:
     ```bash
     pip install -r requirements.txt
@@ -35,18 +35,18 @@ The original `reinkpy` library fails when attempting to execute the waste counte
     pip install -e git+https://codeberg.org/atufi/reinkpy#egg=reinkpy[ui,usb,net]
     ```
     
-4.  **Setup Virtual Environment** (If needed):
+3.  **Setup Virtual Environment** (If needed):
     ```bash
     python -m venv venv
     .\venv\Scripts\activate
     pip install -r requirements.txt
     ```
     
-5.  **Run the Reset Script:**
+4.  **Run the Reset Script:**
     Modify the provided `main.py` to use the correct printer IP and the necessary values of your printer.
 
     
-6.  **Execute:**
+5.  **Execute:**
     ```bash
     python main.py
     ```
