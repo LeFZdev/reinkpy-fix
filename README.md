@@ -63,7 +63,7 @@ The following changes were implemented to enable LAN write functionality:
 ***
 
 
-###🛡️ Disclaimer
+### Disclaimer
 This is software. It won't actually replace pads.
 
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
