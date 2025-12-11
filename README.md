@@ -21,7 +21,7 @@ The original `reinkpy` library fails when attempting to execute the waste counte
 
 1.  **Clone this Repository:**
     ```bash
-    git clone [repo_link]
+    git clone https://github.com/LeFZdev/reinkpy-fix
     cd reinkpy-fix
     ```
 2.  **Setup Virtual Environment** (If needed):
