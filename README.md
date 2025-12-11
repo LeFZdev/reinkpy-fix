@@ -24,14 +24,19 @@ The original `reinkpy` library fails when attempting to execute the waste counte
     git clone https://github.com/LeFZdev/reinkpy-fix
     cd reinkpy-fix
     ```
-2.  **Setup Virtual Environment** (If needed):
+    **And install this dependency:**
+    ```bash
+    pip install -e git+https://codeberg.org/atufi/reinkpy#egg=reinkpy[ui,usb,net]
+    ```
+    
+3.  **Setup Virtual Environment** (If needed):
     ```bash
     python -m venv venv
     .\venv\Scripts\activate
     pip install -r requirements.txt
     ```
     
-3.  **Run the Reset Script:**
+4.  **Run the Reset Script:**
     Modify the provided `main.py` to use the correct printer IP and the necessary values of your printer.
 
     
