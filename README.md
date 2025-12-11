@@ -56,3 +56,11 @@ The following changes were implemented to enable LAN write functionality:
 * Fixed syntax erros in **`reinkpy/__init__.py`**, and **`reinkpy/snmp.py`**, As well as changing file nominations of **`reinkpy/usbtest.py`** and **`reinkpy/netscan.py`** to prevent circular imports
 ***
 
+
+### Warning
+This is software. It won't actually replace pads.
+
+### Make sure to check out the original project !
+https://codeberg.org/atufi/reinkpy
+
+
