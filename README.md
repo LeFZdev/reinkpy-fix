@@ -50,4 +50,4 @@ The following changes were implemented to enable LAN write functionality:
 * **`reinkpy/__init__.py`**: Patched `NetworkDevice` to accept and pass the `write_user` argument from the calling script to the `SNMPLink` constructor.
 * Fixed syntax erros in **`reinkpy/__init__.py`**, and **`reinkpy/snmp.py`**, As well as changing file nominations of **`reinkpy/usbtest.py`** and **`reinkpy/netscan.py`** to prevent circular imports
 ***
-**Fixed by Ziad EL Fazazi**
+
