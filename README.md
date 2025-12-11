@@ -63,12 +63,15 @@ The following changes were implemented to enable LAN write functionality:
 ***
 
 
-### Warning
+###🛡️ Disclaimer
 This is software. It won't actually replace pads.
 
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+The author(s) and contributor(s) are not liable for any damage, data loss, or printer malfunction that may occur from its use. Use this software at your own risk.
 ***
 
 ### Make sure to check out the original project !
-https://codeberg.org/atufi/reinkpy
+link: https://codeberg.org/atufi/reinkpy
 
 
