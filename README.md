@@ -32,7 +32,7 @@ The original `reinkpy` library fails when attempting to execute the waste counte
     ```
     
 3.  **Run the Reset Script:**
-    Modify the provided `main.py` to use the correct printer IP and the necessary.
+    Modify the provided `main.py` to use the correct printer IP and the necessary values of your printer.
 
     
 5.  **Execute:**
