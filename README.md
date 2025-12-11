@@ -66,6 +66,8 @@ The following changes were implemented to enable LAN write functionality:
 ### Warning
 This is software. It won't actually replace pads.
 
+***
+
 ### Make sure to check out the original project !
 https://codeberg.org/atufi/reinkpy
 
