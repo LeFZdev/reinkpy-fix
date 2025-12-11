@@ -1,0 +1,11 @@
+# Core networking and protocol libraries
+pysnmp
+pyserial
+libusb1
+python-zeroconf
+paho-mqtt
+asciimatics
+pillow
+
+# Installation of the original project source for UI/USB dependencies
+-e git+https://codeberg.org/atufi/reinkpy#egg=reinkpy[ui,usb,net]
