@@ -1,2 +1,1 @@
-WARNING reinkpy.usb      attempted relative import with no known parent package
-WARNING zeroconf         cannot import name 'Zeroconf' from partially initialized module 'zeroconf' (most likely due to a circular import) (C:\Users\FZ\reinkpy\reinkpy\zeroconf.py)
+
