@@ -17,7 +17,7 @@ The original `reinkpy` library fails when attempting to execute the waste counte
 
 **This repository fixes both issues.**
 
-### 🛠️ How to Use (LAN Fix)
+### How to Use (LAN Fix)
 
 1.  **Clone this Repository:**
     ```bash
@@ -71,7 +71,7 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 The author(s) and contributor(s) are not liable for any damage, data loss, or printer malfunction that may occur from its use. Use this software at your own risk.
 ***
 
-### Make sure to check out the original project !
+### Make sure to check out the original project.
 link: https://codeberg.org/atufi/reinkpy
 
 
