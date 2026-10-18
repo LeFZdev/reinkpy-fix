@@ -70,8 +70,3 @@ THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 The author(s) and contributor(s) are not liable for any damage, data loss, or printer malfunction that may occur from its use. Use this software at your own risk.
 ***
-
-### Make sure to check out the original project.
-link: https://codeberg.org/atufi/reinkpy
-
-
